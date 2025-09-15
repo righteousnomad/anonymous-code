@@ -1,14 +1,5 @@
 {
-  "marketing@servicesats.com": {
-    "url_sha256": "b189fb9f3a77763ebdc1aebd9de832586005e1648fcc903063afb592fd3a09e4",
-    "email_url_sha256": "5018e7398c180bb21dd58969125a47ac0fbd567f93aa536fc79a4c4b0ee8e47c"
-  },
-  "contactus@servicesats.com": {
-    "url_sha256": "b7e7bf65d840000a1b3a441075ed4f53dcdf2471e5dc28fe6bd8a018a9c09cd4",
-    "email_url_sha256": "ecba9474f682f8e3c3a59db15900b7f83cda9497a6c00b4ec8bea97ee371b5c8"
-  },
-  "default": {
-    "url_sha256": "55cdcf86bccab2178be35d105161927897c126c491134aeaaed0bde5bf933e89",
-    "email_url_sha256": "b76e8754da94edc435bec7e142a35b33cb761c0cd0a39154b7a9623a5a86660a"
-  }
+  "marketing@servicesats.com": "4b9a8b601fbf7f6fa9d23c3f4b7ef1f6d0c5a8d2f0b7e1c3a6d9f4b1e2c3a5d7",
+  "contactus@servicesats.com": "8f2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+  "default": "3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d"
 }
